@@ -20,7 +20,7 @@ public class Ejercicio_02 {
             System.out.println("4.Contabilizar el total de asientos ocupados y disponibles.");
             System.out.println("Ingrese una opción");
             opcion = objScanner.nextInt();
-
+//hola
             switch (opcion){
                 case 1:
                     System.out.println("Ingrese la fila (1-5)");
