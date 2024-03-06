@@ -60,6 +60,7 @@ public class Ejercicio_02 {
                             }
                         }
                         break;
+                        //hola
                 case 4:
                     int ocupados =0, disponibles = 0;
                      for (boolean[] filaAsiento: listaAsientos){
